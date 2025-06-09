@@ -1,0 +1,24 @@
+---
+title: "About Me"
+listing: 
+  contents: about-me
+page-layout: full
+title-block-banner: true
+comments: false
+---
+
+As a passionate sports fan, I am interested in using statistics to make an impact in the sports world. Whether it is in player development, player valuation, or team strategy, I hope to use my statistical knowledge and background to create an advantage for teams. I have already done several sports-related projects in my courses, and I plan to continue to do more in-depth studies as I deepen my statistics knowledge.
+
+I have been fortunate to have several leadership opportunities at Macalester. Going into my sophomore year, I was chosen to be a baseball representative for the Macalester Student Athlete Mentors (SAMs). In SAMs, we collaborate with faculty and varsity coaches to build a community among student-athletes and other students at Macalester, as well as connect student-athletes with on-campus mental health and student support services. Additionally, after my sophomore year, I was chosen to be a part of the Macalester Baseball leadership team. The leadership team works with the coaching staff and players to foster team performance and positive culture. I was also awarded with CSC Academic All-District Honors after the 2025 Spring season.
+
+In addition to statistics and sports, I enjoy playing video games, working out, hunting, fishing, scuba diving, and spending time with my friends and family.
+
+::: {layout-ncol="2"}
+![Me and my dog Piper while hunting in South Texas.](images/IMG_5296.jpeg)
+
+![Me, my dad, and my brother scuba diving in the Cayman Islands.](images/GPTempDownload%204.JPG){width="524"}
+
+![Me and my friends at an Astros game.](images/IMG_5222.jpeg)
+
+![A picture I took of a sunrise in South Texas.](images/IMG_4213.jpeg)
+:::

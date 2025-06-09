@@ -1,0 +1,15 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: true
+comments: false
+---
+
+Throughout my time at Macalester, I have had several opportunities to work with and explore real data. While not all of my research has been statistical, I feel all of these projects have been incredibly valuable to my growth as a statistician and a student. I worked on all of the projects below as an undergraduate student at Macalester.

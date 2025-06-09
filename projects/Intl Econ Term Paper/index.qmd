@@ -1,0 +1,13 @@
+---
+title: "Markets at War: The Trade Costs of Global Conflict"
+description: "An International Economics Term Paper completed by Holden Peacock, Peter Ward, and Bobby Munoz in May 2025."
+image: visualization.png
+categories:
+  - Research
+about:
+  template: marquee
+  image: visualization.png
+date: 2025-05-04
+---
+
+In this assignment, we were tasked with collecting data on international trade and writing a brief research paper on a topic of our choosing. Using data from the World Bank and the Correlates of War database, we found data on trade during global conflicts. Using this, we created our research topic, which was how war impacts the frequency and patterns of international trade. For our full hypotheses and findings, use the following link to [download our term paper](https://drive.google.com/uc?export=download&id=1k6SiU5jKN1GqhcGqECMJbrUcYS04OmB1).

@@ -1,0 +1,14 @@
+---
+title: "Home Run Classification Project"
+description: "A Machine Learning project completed by Holden Peacock, Jack Nussbaum, Arun Waran, and Lily Morgan in April 2025"
+image: visualization.png
+categories:
+  - Research
+  - Sports Analytics
+about:
+  template: marquee
+  image: visualization.png
+date: 2025-04-09
+---
+
+In this assignment, we completed several different types of classification to build a model that can predict whether a batted ball is a home run. Using data from over 46,000 MLB at-bats during the 2020 MLB season, we examined various predictors that could influence whether a home run was hit. During our preliminary exploration of the data, we tried different types of classification models, such as logistic regression, K Nearest Neighbors (KNN), decision trees, random forests, and bootstrap aggregating (bagging) forests. Our analysis focused on creating a model that both interpretable and accurate. For our full analysis, please use the following link to [download the report](https://drive.google.com/uc?export=download&id=1I6ygs7d2yLgJDAdBE_vB3Ngh1ouZSbHF).

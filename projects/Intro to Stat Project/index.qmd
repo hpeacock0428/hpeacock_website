@@ -1,0 +1,14 @@
+---
+title: "How to Be Unhittable: The Science Behind Getting Outs"
+description: "An Introduction to Statistics project completed by Holden Peacock, Zoli Lauko, and Alex Brinkman in December 2024."
+image: visualization.png
+categories:
+  - Research
+  - Sports Analytics
+about:
+  template: marquee
+  image: visualization.png
+date: 2024-12-11
+---
+
+In this project, we conducted several linear regressions on the relationship between various pitch factors and the batter's resulting hard-hit rate. Our analysis focuses on pitch velocity, break, and spin rate, and the resulting hard-hit rate in an attempt to determine which pitch factor has the largest influence on lowering batter hard-hit rate. For the complete analysis, please use the following link to [download the report](https://drive.google.com/uc?export=download&id=1FLU320rAKlrG34TtsuDksIM_P7GnbsAH).

@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/Intl Econ Term Paper/index.html",
+      "/projects/ML Classification Project/index.html",
+      "/projects/Intro to Stat Project/index.html",
+      "/projects/Sports Geo Final/index.html",
+      "/projects/Data Science Midterm/index.html"
+    ]
+  },
+  {
+    "listing": "/about-me.html",
+    "items": []
+  }
+]

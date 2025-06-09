@@ -1,11 +1,27 @@
 ---
-title: "hpeacock_website"
+title: "Holden Peacock"
+about:
+  id: intro-heading
+  template: broadside
+  image: images/headshot.jpg
+  links:
+    - icon: linkedin
+      href: www.linkedin.com/in/holden-peacock
 ---
 
-This is a Quarto website.
+::: {#intro-heading}
+Welcome to my website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a junior Statistics major at Macalester College in St. Paul, Minnesota. I am minoring in Economics and Spanish, and I also play on the baseball team at Macalester. I am a member of the Macalester Baseball Leadership Team and Macalester Student Athlete Mentors.
 
-```{r}
-1 + 1
-```
+## Education
+
+Macalester College | St. Paul, MN <br>
+B.A. in Statistics | Minors in Economics and Spanish | Sept. 2023 - Pres.
+
+## Experience
+
+Vineyard Vines | Seasonal Sales Associate | Summer '23 and '24
+
+Houston Astros | Career Development Intern | Jan. 2023
+

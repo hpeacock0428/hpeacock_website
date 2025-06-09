@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Holden Peacock",
+    "section": "",
+    "text": "Welcome to my website!\nI am a junior Statistics major at Macalester College in St. Paul, Minnesota. I am minoring in Economics and Spanish, and I also play on the baseball team at Macalester. I am a member of the Macalester Baseball Leadership Team and Macalester Student Athlete Mentors.\n\n\nMacalester College | St. Paul, MN  B.A. in Statistics | Minors in Economics and Spanish | Sept. 2023 - Pres.\n\n\n\nVineyard Vines | Seasonal Sales Associate | Summer ’23 and ’24\nHouston Astros | Career Development Intern | Jan. 2023"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Throughout my time at Macalester, I have had several opportunities to work with and explore real data. While not all of my research has been statistical, I feel all of these projects have been incredibly valuable to my growth as a statistician and a student. I worked on all of the projects below as an undergraduate student at Macalester.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMarkets at War: The Trade Costs of Global Conflict\n\n\n\nResearch\n\n\n\nAn International Economics Term Paper completed by Holden Peacock, Peter Ward, and Bobby Munoz in May 2025.\n\n\n\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHome Run Classification Project\n\n\n\nResearch\n\n\nSports Analytics\n\n\n\nA Machine Learning project completed by Holden Peacock, Jack Nussbaum, Arun Waran, and Lily Morgan in April 2025\n\n\n\n\n\n\nApr 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow to Be Unhittable: The Science Behind Getting Outs\n\n\n\nResearch\n\n\nSports Analytics\n\n\n\nAn Introduction to Statistics project completed by Holden Peacock, Zoli Lauko, and Alex Brinkman in December 2024.\n\n\n\n\n\n\nDec 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Survival of Small Market Sports: A Study on the Small-Market Franchises of the MLB, NFL, and NHL\n\n\n\nResearch\n\n\nSports Analytics\n\n\n\nMy Sports Geography final research study that I completed in May 2024.\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Number of Car Accidents per 10,000 People in Each County in Texas\n\n\n\nResearch\n\n\n\nMy Introduction to Data Science midterm that I completed in October 2023.\n\n\n\n\n\n\nOct 25, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/Intro to Stat Project/index.html",
+    "href": "projects/Intro to Stat Project/index.html",
+    "title": "How to Be Unhittable: The Science Behind Getting Outs",
+    "section": "",
+    "text": "In this project, we conducted several linear regressions on the relationship between various pitch factors and the batter’s resulting hard-hit rate. Our analysis focuses on pitch velocity, break, and spin rate, and the resulting hard-hit rate in an attempt to determine which pitch factor has the largest influence on lowering batter hard-hit rate. For the complete analysis, please use the following link to download the report."
+  },
+  {
+    "objectID": "projects/ML Classification Project/index.html",
+    "href": "projects/ML Classification Project/index.html",
+    "title": "Home Run Classification Project",
+    "section": "",
+    "text": "In this assignment, we completed several different types of classification to build a model that can predict whether a batted ball is a home run. Using data from over 46,000 MLB at-bats during the 2020 MLB season, we examined various predictors that could influence whether a home run was hit. During our preliminary exploration of the data, we tried different types of classification models, such as logistic regression, K Nearest Neighbors (KNN), decision trees, random forests, and bootstrap aggregating (bagging) forests. Our analysis focused on creating a model that both interpretable and accurate. For our full analysis, please use the following link to download the report."
+  },
+  {
+    "objectID": "projects/Sports Geo Final/index.html",
+    "href": "projects/Sports Geo Final/index.html",
+    "title": "The Survival of Small Market Sports: A Study on the Small-Market Franchises of the MLB, NFL, and NHL",
+    "section": "",
+    "text": "I wrote this case study for my final research project in my Sports Geography course in Spring 2024. We were given a broad outline for this essay: any topic in the social, cultural, or political aspects of sports. As a passionate baseball fan, I wanted to do a study into how small-market MLB teams compare in performance to small-market teams in other major sports leagues. Small-market teams are the core of any league, and sports are better when small-market teams are successful. For my full research, please use the following link to download the case study."
+  },
+  {
+    "objectID": "projects/Data Science Midterm/index.html",
+    "href": "projects/Data Science Midterm/index.html",
+    "title": "The Number of Car Accidents per 10,000 People in Each County in Texas",
+    "section": "",
+    "text": "This was one of the first projects I completed at Macalester College. This was the midterm for my Introduction to Data Science course in Fall 2023, where we were tasked with creating an interactive chloropleth map using data wrangling and visualization. I chose to do my study on car accident data from the Texas Department of Transportation in 2022. Although there is no analysis in this project, I thought it would be interesting to include one of the first data visualizations I ever made on my website. You can take a look at the code and my interactive visualization by downloading this html."
+  },
+  {
+    "objectID": "projects/Intl Econ Term Paper/index.html",
+    "href": "projects/Intl Econ Term Paper/index.html",
+    "title": "Markets at War: The Trade Costs of Global Conflict",
+    "section": "",
+    "text": "In this assignment, we were tasked with collecting data on international trade and writing a brief research paper on a topic of our choosing. Using data from the World Bank and the Correlates of War database, we found data on trade during global conflicts. Using this, we created our research topic, which was how war impacts the frequency and patterns of international trade. For our full hypotheses and findings, use the following link to download our term paper."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Holden Peacock",
+    "section": "",
+    "text": "Macalester College | St. Paul, MN  B.A. in Statistics | Minors in Economics and Spanish | Sept. 2023 - Pres."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Holden Peacock",
+    "section": "",
+    "text": "Vineyard Vines | Seasonal Sales Associate | Summer ’23 and ’24\nHouston Astros | Career Development Intern | Jan. 2023"
+  },
+  {
+    "objectID": "about-me.html",
+    "href": "about-me.html",
+    "title": "About Me",
+    "section": "",
+    "text": "As a passionate sports fan, I am interested in using statistics to make an impact in the sports world. Whether it is in player development, player valuation, or team strategy, I hope to use my statistical knowledge and background to create an advantage for teams. I have already done several sports-related projects in my courses, and I plan to continue to do more in-depth studies as I deepen my statistics knowledge.\nI have been fortunate to have several leadership opportunities at Macalester. Going into my sophomore year, I was chosen to be a baseball representative for the Macalester Student Athlete Mentors (SAMs). In SAMs, we collaborate with faculty and varsity coaches to build a community among student-athletes and other students at Macalester, as well as connect student-athletes with on-campus mental health and student support services. Additionally, after my sophomore year, I was chosen to be a part of the Macalester Baseball leadership team. The leadership team works with the coaching staff and players to foster team performance and positive culture. I was also awarded with CSC Academic All-District Honors after the 2025 Spring season.\nIn addition to statistics and sports, I enjoy playing video games, working out, hunting, fishing, scuba diving, and spending time with my friends and family.\n\n\n\n\n\n\n\n\n\nMe and my dog Piper while hunting in South Texas.\n\n\n\n\n\n\n\nMe, my dad, and my brother scuba diving in the Cayman Islands.\n\n\n\n\n\n\n\n\n\nMe and my friends at an Astros game.\n\n\n\n\n\n\n\nA picture I took of a sunrise in South Texas.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

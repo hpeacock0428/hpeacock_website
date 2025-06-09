@@ -1,0 +1,13 @@
+---
+title: "The Number of Car Accidents per 10,000 People in Each County in Texas"
+description: "My Introduction to Data Science midterm that I completed in October 2023."
+image: peacock_midterm_map.jpg
+categories:
+  - Research
+about:
+  template: marquee
+  image: peacock_midterm_map.jpg
+date: 2023-10-25
+---
+
+This was one of the first projects I completed at Macalester College. This was the midterm for my Introduction to Data Science course in Fall 2023, where we were tasked with creating an interactive chloropleth map using data wrangling and visualization. I chose to do my study on car accident data from the Texas Department of Transportation in 2022. Although there is no analysis in this project, I thought it would be interesting to include one of the first data visualizations I ever made on my website. You can take a look at the code and my interactive visualization by [downloading this html](https://drive.google.com/uc?export=download&id=1LpuKftjSiFhtvGWhStx7Sqp0jmGvgQed).

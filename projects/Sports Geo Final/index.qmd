@@ -1,0 +1,14 @@
+---
+title: "The Survival of Small Market Sports: A Study on the Small-Market Franchises of the MLB, NFL, and NHL"
+description: "My Sports Geography final research study that I completed in May 2024."
+image: logos.jpg
+categories:
+  - Research
+  - Sports Analytics
+about:
+  template: marquee
+  image: logos.jpg
+date: 2024-05-03
+---
+
+I wrote this case study for my final research project in my Sports Geography course in Spring 2024. We were given a broad outline for this essay: any topic in the social, cultural, or political aspects of sports. As a passionate baseball fan, I wanted to do a study into how small-market MLB teams compare in performance to small-market teams in other major sports leagues. Small-market teams are the core of any league, and sports are better when small-market teams are successful. For my full research, please use the following link to [download the case study](https://drive.google.com/uc?export=download&id=1szTSMcWZEHWuTtZVh0DOI7ih15MapWWe).
