@@ -7,6 +7,8 @@ about:
   links:
     - icon: linkedin
       href: www.linkedin.com/in/holden-peacock
+    - icon: envelope
+      href: mailto:holden@thepeacockfamily.net
 ---
 
 ::: {#intro-heading}

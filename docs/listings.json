@@ -12,5 +12,13 @@
   {
     "listing": "/about-me.html",
     "items": []
+  },
+  {
+    "listing": "/resume.html",
+    "items": []
+  },
+  {
+    "listing": "/contact.html",
+    "items": []
   }
 ]

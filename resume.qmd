@@ -1,0 +1,14 @@
+---
+title: "Resume"
+listing: 
+  contents: resume
+page-layout: full
+title-block-banner: true
+comments: false
+---
+
+My resume highlights my academic background, work experiences, skills, and accomplishments. You can view it below or [download a PDF version](https://drive.google.com/uc?export=download&id=1oeWGSauGZxXvoJkU2qaZ9wgcx1V-gCwd).
+
+<iframe src="Peacock, Philip - Resume.pdf" width="100%" height="800px" style="border:none;">
+
+</iframe>

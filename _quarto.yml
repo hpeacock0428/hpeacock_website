@@ -10,13 +10,17 @@ website:
         text: Home
       - about-me.qmd
       - projects.qmd
+      - resume.qmd
+      - contact.qmd
   page-footer:
     left: |
       &copy; Holden Peacock, 2025<br>
       All content licensed under <i class='bi-badge-cc'></i>
       [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
     right: |
-      Site built with <a href='https://quarto.org/'>Quarto</a>
+      Site built with <a href='https://quarto.org/'>Quarto</a> <br>
+      [Email](mailto:holden.peacock@email.com) |
+      [LinkedIn](https://www.linkedin.com/in/holdenpeacock/)
 
 
 format:
