@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projects – Holden Peacock</title>
+<title>Contact Me – Holden Peacock</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -158,7 +158,7 @@ window.Quarto = {
 <span class="menu-text">About Me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+    <a class="nav-link" href="./projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
@@ -166,7 +166,7 @@ window.Quarto = {
 <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./connecting.html"> 
+    <a class="nav-link active" href="./connecting.html" aria-current="page"> 
 <span class="menu-text">Contact Me</span></a>
   </li>  
 </ul>
@@ -180,7 +180,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Projects</h1>
+      <h1 class="title">Contact Me</h1>
                       </div>
   </div>
     
@@ -197,8 +197,14 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="UmVzZWFyY2g=">Research <span class="quarto-category-count">(5)</span></div><div class="category" data-category="U3BvcnRzJTIwQW5hbHl0aWNz">Sports Analytics <span class="quarto-category-count">(3)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#get-in-touch" id="toc-get-in-touch" class="nav-link active" data-scroll-target="#get-in-touch">Get in Touch</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -206,189 +212,21 @@ window.Quarto = {
 
 
 
-<p>Throughout my time at Macalester, I have had several opportunities to work with and explore real data. While not all of my research has been statistical, I feel all of these projects have been incredibly valuable to my growth as a statistician and a student. I worked on all of the projects below as an undergraduate student at Macalester.</p>
+<section id="get-in-touch" class="level3">
+<h3 class="anchored" data-anchor-id="get-in-touch">Get in Touch</h3>
+<p>I’m always open to connecting about my experiences, statistics, sports analytics, and research opportunities!</p>
+<ul>
+<li><p><strong>Email:</strong> <a href="mailto:holden@thepeacockfamily.net">holden@thepeacockfamily.net</a></p></li>
+<li><p><strong>LinkedIn:</strong> <a href="www.linkedin.com/in/holden-peacock">linkedin.com/in/holden-peacock</a></p></li>
+</ul>
 
 
 
+</section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-title" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-author" data-direction="asc">
-        Author
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1746334800000" data-listing-file-modified-sort="1749231712878" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
-<a href="./projects/Intl Econ Term Paper/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/Intl Econ Term Paper/visualization.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Markets at War: The Trade Costs of Global Conflict
-</h5>
-<div class="listing-categories">
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
 
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>An International Economics Term Paper completed by Holden Peacock, Peter Ward, and Bobby Munoz in May 2025.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-May 4, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="UmVzZWFyY2glMkNTcG9ydHMlMjBBbmFseXRpY3M=" data-listing-date-sort="1744174800000" data-listing-file-modified-sort="1748883513334" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
-<a href="./projects/ML Classification Project/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/ML Classification Project/visualization.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Home Run Classification Project
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3BvcnRzJTIwQW5hbHl0aWNz'); return false;">Sports Analytics</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>A Machine Learning project completed by Holden Peacock, Jack Nussbaum, Arun Waran, and Lily Morgan in April 2025</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Apr 9, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="UmVzZWFyY2glMkNTcG9ydHMlMjBBbmFseXRpY3M=" data-listing-date-sort="1733896800000" data-listing-file-modified-sort="1748883512006" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
-<a href="./projects/Intro to Stat Project/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/Intro to Stat Project/visualization.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-How to Be Unhittable: The Science Behind Getting Outs
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3BvcnRzJTIwQW5hbHl0aWNz'); return false;">Sports Analytics</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>An Introduction to Statistics project completed by Holden Peacock, Zoli Lauko, and Alex Brinkman in December 2024.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Dec 11, 2024
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="UmVzZWFyY2glMkNTcG9ydHMlMjBBbmFseXRpY3M=" data-listing-date-sort="1714712400000" data-listing-file-modified-sort="1748891814284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
-<a href="./projects/Sports Geo Final/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/Sports Geo Final/logos.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Survival of Small Market Sports: A Study on the Small-Market Franchises of the MLB, NFL, and NHL
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3BvcnRzJTIwQW5hbHl0aWNz'); return false;">Sports Analytics</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>My Sports Geography final research study that I completed in May 2024.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-May 3, 2024
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1698210000000" data-listing-file-modified-sort="1748893139527" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
-<a href="./projects/Data Science Midterm/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/Data Science Midterm/peacock_midterm_map.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Number of Car Accidents per 10,000 People in Each County in Texas
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>My Introduction to Data Science midterm that I completed in October 2023.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Oct 25, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
