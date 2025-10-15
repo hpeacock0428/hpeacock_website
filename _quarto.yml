@@ -11,7 +11,7 @@ website:
       - about-me.qmd
       - projects.qmd
       - resume.qmd
-      - contact.qmd
+      - contact-me.qmd
   page-footer:
     left: |
       &copy; Holden Peacock, 2025<br>
