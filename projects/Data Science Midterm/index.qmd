@@ -4,9 +4,11 @@ description: "My Introduction to Data Science midterm that I completed in Octobe
 image: peacock_midterm_map.jpg
 categories:
   - Research
+  - Coding
 about:
   template: marquee
   image: peacock_midterm_map.jpg
+navbar: true
 date: 2023-10-25
 ---
 

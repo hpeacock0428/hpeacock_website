@@ -1,0 +1,15 @@
+---
+title: "Bayesian Analysis of Gold-Star Cauliflower Quest in Stardew Valley"
+description: "A Bayesian Statistics Technical Report completed by Holden Peacock and Roger Carranza"
+image: stardew.jpg
+categories:
+  - Coding
+  - Research
+about:
+  template: marquee
+  image: stardew.jpg
+navbar: true
+date: 2026-03-09
+---
+
+One of the main highlights of my Bayesian Statistics capstone course was working on two technical reports throughout the semester. In these technical reports we were asked to solve a broad, open-ended statistical question using the skills we had developed during the course. In this technical report, my partner and I were asked to complete a Bayesian analysis of a made-up quest in the popular game Stardew Valley. Our professor wanted us to use Bayesian statistics to analyze how many seeds she should by to grow a high-value crop and complete her quest. For our findings on how our professor could best complete her quest, use the following link to [download our technical report](https://drive.google.com/uc?export=download&id=1x76QD8vp7GgJY3ZTUPo7cU3iJ3fovSlV).

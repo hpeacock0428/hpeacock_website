@@ -14,7 +14,7 @@ about:
 ::: {#intro-heading}
 Welcome to my website!
 
-I am a junior Statistics major at Macalester College in St. Paul, Minnesota. I am minoring in Economics and Spanish, and I also play on the baseball team at Macalester. I am a member of the Macalester Baseball Leadership Team and Macalester Student Athlete Mentors.
+I am a senior Statistics major at Macalester College in St. Paul, Minnesota. I am minoring in Economics and Spanish, and I also play on the baseball team at Macalester. I am a member of the Macalester Baseball Leadership Team and Macalester Student Athlete Mentors. This summer I will be working for the Minnesota Mud Puppies in the Northwoods League.
 
 ## Education
 
@@ -23,9 +23,9 @@ B.A. in Statistics | Minors in Economics and Spanish | Sept. 2023 - Pres.
 
 ## Experience
 
+Minnesota Mud Puppies | Baseball Operations and Analytics Intern | June 2026 - Aug. 2026
+
 Vanguard Renewables | RNG Suppy Intern | June 2025 - Aug. 2025
 
-Vineyard Vines | Seasonal Sales Associate | Summer '23 and '24
-
-Houston Astros | Career Development Intern | Jan. 2023
+Houston Astros | Career Development Intern | January 2023
 

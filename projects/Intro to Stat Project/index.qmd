@@ -5,9 +5,11 @@ image: visualization.png
 categories:
   - Research
   - Sports Analytics
+  - Coding
 about:
   template: marquee
   image: visualization.png
+navbar: true
 date: 2024-12-11
 ---
 

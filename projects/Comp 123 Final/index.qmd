@@ -1,0 +1,14 @@
+---
+title: "Battleship Game"
+description: "A Core Concepts in Compute Science final completed by Holden Peacock and Tristan Collins in May 2025"
+image: battleship.jpg
+categories:
+  - Coding
+about:
+  template: marquee
+  image: battleship.jpg
+navbar: true
+date: 2025-05-12
+---
+
+For this final, my group was asked to specify, design, and implement a program in Python. My group mate and I chose to recreate the classic game Battleship using tkinter. In our game, the player can play against a computer that automatically places its ships and shoots at the player's placed ships. Although we did not ultimately create a perfect version of the game, I thought this would be fun to include to show some of my skills in Python. A zip file containing all of the contents for our project can be downloaded [here](https://drive.google.com/uc?export=download&id=1n7h8KAfyYVYZrRSmuf7mJhiwn-XXml3F).

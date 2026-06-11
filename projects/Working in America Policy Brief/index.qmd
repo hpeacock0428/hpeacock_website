@@ -1,0 +1,14 @@
+---
+title: "LIHTC Expansion: How a $50 Million Increase will Assist Affordable Housing"
+description: "A Working in America Policy Brief written by Holden Peacock, Nick Strezo, and Tommy Ball in December 2025."
+image: lihtc.png
+categories:
+  - Research
+about:
+  template: marquee
+  image: lihtc.png
+navbar: true
+date: 2025-12-10
+---
+
+This project served as the final for my Working in America course in Fall 2025. My partners and I conducted research into a labor market policy that we found interesting. We were tasked with applying economical models, research, and data to create a policy directed at the government or a specific company or organization. Going to school in the Twin Cities, we thought it would be particularly relevant to discuss low-income housing tax credits and their impacts on the larger Twin Cities community. A full copy of our policy brief can be downloaded [here](https://docs.google.com/document/d/1q3MxYRlAt_tADdOjkbtVTVwa0kOXV8Kf2G7lJvziku8/export?format=pdf).

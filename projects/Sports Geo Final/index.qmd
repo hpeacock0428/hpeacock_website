@@ -8,6 +8,7 @@ categories:
 about:
   template: marquee
   image: logos.jpg
+navbar: true
 date: 2024-05-03
 ---
 

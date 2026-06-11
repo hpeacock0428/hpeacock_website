@@ -1,13 +1,15 @@
 ---
 title: "Home Run Classification Project"
-description: "A Machine Learning project completed by Holden Peacock, Jack Nussbaum, Arun Waran, and Lily Morgan in April 2025"
+description: "A Machine Learning project completed by Holden Peacock, Jack Nussbaum, Arun Waran, and Lily Morgan in April 2025."
 image: visualization.png
 categories:
   - Research
   - Sports Analytics
+  - Coding
 about:
   template: marquee
   image: visualization.png
+navbar: true
 date: 2025-04-09
 ---
 

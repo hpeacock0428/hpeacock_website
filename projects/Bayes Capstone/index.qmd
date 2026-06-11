@@ -1,0 +1,15 @@
+---
+title: "A Bayesian Approach to Modeling Cumulative Stock Market Returns"
+description: "A Bayesian Statistics Capstone project completed by Holden Peacock, Nick Kent, and William Wu in May 2026."
+image: returns.png
+categories:
+  - Research
+  - Coding
+about:
+  template: marquee
+  image: returns.png
+navbar: true
+date: 2026-05-05
+---
+
+Because Bayesian Statistics was a 400-level course, each student was tasked with completing a capstone project. We were given various project topics to choose from, including methodological and applied projects. Since we were all interested in finance, our group chose to do an applied project on modeling cumulative log stock returns with a Hierarchical Bayesian AR(1) model using data from Yahoo Finance on nine different SPDR sector ETFs. Our research question was: To what extent are sector-level cumulative log returns driven by a common market dynamic versus sector-specific persistence? To learn more about our findings on this topic, you can download our report [here](https://drive.google.com/uc?export=download&id=1q5Iw4LEop_lYRJKd-78BHQf1Rl6iCZxn).

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,7 +114,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -139,6 +140,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Holden Peacock</span>
     </a>
@@ -198,7 +201,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="UmVzZWFyY2g=">Research <span class="quarto-category-count">(5)</span></div><div class="category" data-category="U3BvcnRzJTIwQW5hbHl0aWNz">Sports Analytics <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Q29kaW5n">Coding <span class="quarto-category-count">(6)</span></div><div class="category" data-category="UmVzZWFyY2g=">Research <span class="quarto-category-count">(8)</span></div><div class="category" data-category="U3BvcnRzJTIwQW5hbHl0aWNz">Sports Analytics <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -238,7 +241,127 @@ window.Quarto = {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1746334800000" data-listing-file-modified-sort="1749231712878" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
+<div class="g-col-1" data-index="0" data-categories="UmVzZWFyY2glMkNDb2Rpbmc=" data-listing-date-sort="1777957200000" data-listing-file-modified-sort="1781201316756" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<a href="./projects/Bayes Capstone/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/Bayes Capstone/returns.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+A Bayesian Approach to Modeling Cumulative Stock Market Returns
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29kaW5n'); return false;">Coding</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>A Bayesian Statistics Capstone project completed by Holden Peacock, Nick Kent, and William Wu in May 2026.</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 5, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Q29kaW5nJTJDUmVzZWFyY2g=" data-listing-date-sort="1773032400000" data-listing-file-modified-sort="1781198396447" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
+<a href="./projects/Bayes TR1/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/Bayes TR1/stardew.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bayesian Analysis of Gold-Star Cauliflower Quest in Stardew Valley
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29kaW5n'); return false;">Coding</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>A Bayesian Statistics Technical Report completed by Holden Peacock and Roger Carranza</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 9, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1765346400000" data-listing-file-modified-sort="1781198244800" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
+<a href="./projects/Working in America Policy Brief/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/Working in America Policy Brief/lihtc.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+LIHTC Expansion: How a $50 Million Increase will Assist Affordable Housing
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>A Working in America Policy Brief written by Holden Peacock, Nick Strezo, and Tommy Ball in December 2025.</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 10, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Q29kaW5n" data-listing-date-sort="1747026000000" data-listing-file-modified-sort="1780341985763" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<a href="./projects/Comp 123 Final/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/Comp 123 Final/battleship.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Battleship Game
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29kaW5n'); return false;">Coding</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>A Core Concepts in Compute Science final completed by Holden Peacock and Tristan Collins in May 2025</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 12, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1746334800000" data-listing-file-modified-sort="1780341913950" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
 <a href="./projects/Intl Econ Term Paper/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -267,7 +390,7 @@ May 4, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="UmVzZWFyY2glMkNTcG9ydHMlMjBBbmFseXRpY3M=" data-listing-date-sort="1744174800000" data-listing-file-modified-sort="1748883513334" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
+<div class="g-col-1" data-index="5" data-categories="UmVzZWFyY2glMkNTcG9ydHMlMjBBbmFseXRpY3MlMkNDb2Rpbmc=" data-listing-date-sort="1744174800000" data-listing-file-modified-sort="1780341968582" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
 <a href="./projects/ML Classification Project/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -283,9 +406,11 @@ Home Run Classification Project
 
 <div class="listing-category" onclick="window.quartoListingCategory('U3BvcnRzJTIwQW5hbHl0aWNz'); return false;">Sports Analytics</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('Q29kaW5n'); return false;">Coding</div>
+
 </div>
 <div class="card-text listing-description delink">
-<p>A Machine Learning project completed by Holden Peacock, Jack Nussbaum, Arun Waran, and Lily Morgan in April 2025</p>
+<p>A Machine Learning project completed by Holden Peacock, Jack Nussbaum, Arun Waran, and Lily Morgan in April 2025.</p>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -298,7 +423,7 @@ Apr 9, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="UmVzZWFyY2glMkNTcG9ydHMlMjBBbmFseXRpY3M=" data-listing-date-sort="1733896800000" data-listing-file-modified-sort="1748883512006" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
+<div class="g-col-1" data-index="6" data-categories="UmVzZWFyY2glMkNTcG9ydHMlMjBBbmFseXRpY3MlMkNDb2Rpbmc=" data-listing-date-sort="1733896800000" data-listing-file-modified-sort="1780342014162" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
 <a href="./projects/Intro to Stat Project/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -313,6 +438,8 @@ How to Be Unhittable: The Science Behind Getting Outs
 <div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
 
 <div class="listing-category" onclick="window.quartoListingCategory('U3BvcnRzJTIwQW5hbHl0aWNz'); return false;">Sports Analytics</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29kaW5n'); return false;">Coding</div>
 
 </div>
 <div class="card-text listing-description delink">
@@ -329,7 +456,7 @@ Dec 11, 2024
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="UmVzZWFyY2glMkNTcG9ydHMlMjBBbmFseXRpY3M=" data-listing-date-sort="1714712400000" data-listing-file-modified-sort="1748891814284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
+<div class="g-col-1" data-index="7" data-categories="UmVzZWFyY2glMkNTcG9ydHMlMjBBbmFseXRpY3M=" data-listing-date-sort="1714712400000" data-listing-file-modified-sort="1780342029357" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
 <a href="./projects/Sports Geo Final/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -360,7 +487,7 @@ May 3, 2024
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1698210000000" data-listing-file-modified-sort="1748893139527" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
+<div class="g-col-1" data-index="8" data-categories="UmVzZWFyY2glMkNDb2Rpbmc=" data-listing-date-sort="1698210000000" data-listing-file-modified-sort="1780342000683" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="103">
 <a href="./projects/Data Science Midterm/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -373,6 +500,8 @@ The Number of Car Accidents per 10,000 People in Each County in Texas
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29kaW5n'); return false;">Coding</div>
 
 </div>
 <div class="card-text listing-description delink">
@@ -443,13 +572,14 @@ Oct 25, 2023
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
