@@ -8,3 +8,5 @@
 **/*.quarto_ipynb
 statcast_2024_to_present.csv
 *.rds
+statcast_2024_to_present.csv
+*.rds
