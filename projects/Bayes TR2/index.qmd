@@ -1,0 +1,16 @@
+---
+title: "Sweeping the Competition: A Bayesian Analysis of Power Plays in Mixed Doubles Curling"
+description: "A Bayesian Statistics technical report completed by Holden Peacock and Jovian Pham in April 2026."
+image: curling.jpg
+categories:
+  - Research
+  - Coding
+  - Sports Analytics
+about:
+  template: marquee
+  image: curling.jpg
+navbar: true
+date: 2026-04-13
+---
+
+Later in the semester in my Bayesian Statistics course, we completed a second technical report. Using the same guidelines as the first technical report, my partner and I were asked to complete a Bayesian analysis of power plays in Mixed Doubles curling. Mixed Doubles curling is a unique variant of curling, and our professor tasked us with analyzing how using a power play impacts the odds of winning a match, and whether or not "failing" a shot further impacted the odds of winning a match. For our findings on power plays in Mixed Doubles curling, you can use the following link to [download our report](https://drive.google.com/uc?export=download&id=1YdV6pBE58WyJa55yEvGpSofmCJ-c8mAs).

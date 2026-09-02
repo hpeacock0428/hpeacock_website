@@ -7,8 +7,8 @@ title-block-banner: true
 comments: false
 ---
 
-My resume highlights my academic background, work experiences, skills, and accomplishments. You can view it below or [download a PDF version](https://drive.google.com/uc?export=download&id=1R80t66UqCMuEsNZ_AMQPw-AEtotpKQ9j).
+My resume highlights my academic background, work experiences, skills, and accomplishments. You can view it below or [download a PDF version](https://drive.google.com/uc?export=download&id=1WNjkTTG9IH542zlKbUbXxIuLeP5ZQt2o).
 
-<iframe src="Peacock, Philip - Resume.pdf" width="100%" height="800px" style="border:none;">
+<iframe src="Peacock, Holden - Resume.pdf" width="100%" height="800px" style="border:none;">
 
 </iframe>

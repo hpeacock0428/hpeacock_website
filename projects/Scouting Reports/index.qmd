@@ -1,0 +1,19 @@
+---
+title: "Mud Puppies Scouting Reports"
+description: "Automated pitcher scouting reports I created in R for advance scouting against Northwoods League opponents in Summer 2026."
+image: scouting.png
+categories:
+  - Coding
+  - Sports Analytics
+about:
+  template: marquee
+  image: scouting.png
+navbar: true
+date: 2026-08-31
+---
+
+One of the first projects I decided to do this summer for the Mud Puppies was create scouting reports on opposing teams' pitchers and automate the system using R. The scouting report includes several different breakdowns on pitchers, taken from CSV files of TrackMan data provided by the Northwoods League. My scouting report starts with a breakdown of the pitcher's arsenal, including velocities, the usage versus right-handed and left-handed batters, and each pitch's movement profile. Then, I created movement and release point plots for each pitch in a pitcher's arsenal. I also included the pitcher's usage of each pitch by count with splits for left-handed and right-handed batters, the pitcher's fastball velocity trends over an outing, and a section where you can add personalized notes on the pitcher. To see the full system that I used to create my scouting reports, you can download the zip file with my files [here](https://drive.google.com/uc?export=download&id=18X4pgHpyreFTTjoePIa1NQmDg7gCNnJr). Also, you can see a full sample scouting report below:
+
+<iframe src="Sample_Scouting_Report.pdf" width="100%" height="800px" style="border:none;">
+
+</iframe>
