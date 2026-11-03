@@ -90,7 +90,7 @@ all_statcast <- pmap_dfr(
 To clean the Statcast data and make it match the TrackMan data I will later use for my Mud Puppies model, I made a few changes to variables and added a few new variables to the dataset. First, the Statcast pitch data tracks induced vertical break (IVB) and horizontal break (HB) in feet. To match the Northwoods League TrackMan data, I converted those IVB and HB values from feet to inches. One of the major features of the Stuff+ model is that it is trained on the expected run value of each pitch. To calculate these run values, you need the count and position of runners on base. Using Statcast's `delta_run_exp` (change in run expectancy) variable, I was able to create the average run value of each pitch based on count, runner position, pitcher handedness and batter handedness. Then, I consolidated the `events` and `descriptions` columns in to a single `results` column that matched the TrackMan results. Finally, I created 3 more variables to track the difference between the velocity, IVB, and HB of each pitch and the pitcher's primary fastball, and I gave each different pitch type thrown a numeric value. With all of these changes, I rejoined the run values to each pitch in the dataset, and now the data is ready for modeling.
 
 ```{r}
-all_statcast <- readRDS("/Users/holden.peacock/Desktop/Internships/Mud Puppies/Stuff+/all_statcast.rds")
+all_statcast <- readRDS("/Users/holden.peacock/Desktop/Jobs/Past Internships/Mud Puppies/Stuff+/all_statcast.rds")
 
 # Mutate to add a single runner position variable, a single count variable, and IVB and HB variables in inches
 all_statcast <- all_statcast %>%
@@ -259,7 +259,7 @@ To start modeling the Mud Puppies pitchers, I had to first clean the Mud Puppies
 
 ```{r, output=FALSE}
 # Set base directory for function
-base_dir <- "/Users/holden.peacock/Desktop/Internships/Mud Puppies/Stuff+/Game Files"
+base_dir <- "/Users/holden.peacock/Desktop/Jobs/Past Internships/Mud Puppies/Stuff+/Game Files"
 
 mudpuppies <- read.csv("stuffplus.csv")
 
@@ -410,8 +410,8 @@ After looking at how the Mud Puppies compared to MLB pitching, I thought it woul
 To clean the data, I made the same changes as before to the two other data sets. My `combine_opponents` function allowed me to combine all of the different CSV files I had for scouting into one master file. I then made all the same changes to the data as with the Mud Puppies and MLB data.
 
 ```{r}
-secondary_dir <- "/Users/holden.peacock/Desktop/Internships/Mud Puppies/Scouting"
-source("/Users/holden.peacock/Desktop/Internships/Mud Puppies/Scouting/scouting_functions.R")
+secondary_dir <- "/Users/holden.peacock/Desktop/Jobs/Past Internships/Mud Puppies/Scouting"
+source("/Users/holden.peacock/Desktop/Jobs/Past Internships/Mud Puppies/Scouting/scouting_functions.R")
 
 # Function that combines all game CSV files into one single CSV
 combine_opponents <- function(scouting_folder) {
